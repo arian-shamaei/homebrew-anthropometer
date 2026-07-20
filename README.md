@@ -5,6 +5,7 @@ btop-style real-time context monitor for Claude Code sessions.
 
 ```sh
 brew tap arian-shamaei/anthropometer
+brew trust arian-shamaei/anthropometer   # newer Homebrew asks you to trust third-party taps
 brew install amtr
 ```
 
